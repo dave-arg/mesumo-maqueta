@@ -41,7 +41,7 @@ export const Catalogo = () => {
         nombre={"Auriculares JBL 1114"}
       />
       <Premio
-        padding={"0px 16px 32px 0px"}
+        padding={"0px 0px 32px 0px"}
         image="https://http2.mlstatic.com/D_NQ_NP_2X_785994-MLA46540771007_062021-F.webp"
         puntos={"25.000"}
         rubro={"ELECTRONICA"}
@@ -76,7 +76,7 @@ export const Catalogo = () => {
         nombre={"Auriculares JBL 1114"}
       />
       <Premio
-        padding={"0px 16px 0px 0px"}
+        padding={"0px 0px 0px 0px"}
         image="https://http2.mlstatic.com/D_NQ_NP_2X_785994-MLA46540771007_062021-F.webp"
         puntos={"25.000"}
         rubro={"ELECTRONICA"}
